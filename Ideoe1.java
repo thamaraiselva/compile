@@ -8,6 +8,6 @@ class Ideone1 {
         if(x==1221)
             System.out.println("yes");
         
-          
+         
     }
 }
