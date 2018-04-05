@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Ideone {
+class Ie2 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int x= sc.nextInt();
@@ -7,7 +7,7 @@ class Ideone {
 
             System.out.println("yes");
         if(x==1221)
-            System.out.println("yDs");
+            System.out.println("yes");
           
     }
 }
