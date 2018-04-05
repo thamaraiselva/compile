@@ -4,6 +4,7 @@ class Ideone {
         Scanner sc = new Scanner(System.in);
         int x= sc.nextInt();
             if(x==121)
+                
             System.out.println("yes");
         if(x==1221)
             System.out.println("yes");
